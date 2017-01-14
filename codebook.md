@@ -2,17 +2,17 @@ Code book for "tidyset.txt"
 
 Variables used in run_analysis.R
 
-train
-trainActivities
+train /
+trainActivities /
 trainSubjects
 
-test 
-testActivities 
+test /
+testActivities /
 testSubjects
 
-allData$activity
-allData$subject
-allData.melted
+allData$activity /
+allData$subject /
+allData.melted /
 allData.mean
 
 write.table
