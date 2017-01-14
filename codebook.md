@@ -1,4 +1,4 @@
-Code book for "tidyset.txt" 
+**Code book for "tidyset.txt" 
 
    Variables used in run_analysis.R
 
@@ -18,14 +18,14 @@ Code book for "tidyset.txt"
    write.table
 
 
-"Identifiers"
+**Identifiers
 
  1. subject - Test Subject ID           
  2. activity - Measured Activity Type
  
  
 
-Acitivity Levels during the test
+**Acitivity Levels during the test
 
        V1             V2
 
@@ -43,7 +43,7 @@ Acitivity Levels during the test
  
  
 
-Measurement types used during the test
+**Measurement types used during the test
   
  1. tBodyAccMeanX 
  2. tBodyAccMeanY, 
