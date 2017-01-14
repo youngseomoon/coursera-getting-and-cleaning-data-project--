@@ -1,23 +1,24 @@
 Code book for "tidyset.txt" 
 
-Variables used in run_analysis.R
+   Variables used in run_analysis.R
 
-train /
-trainActivities /
-trainSubjects
+   train /
+   trainActivities /
+   trainSubjects
 
-test /
-testActivities /
-testSubjects
+   test /
+   testActivities /
+   testSubjects
 
-allData$activity /
-allData$subject /
-allData.melted /
-allData.mean
+   allData$activity /
+   allData$subject /
+   allData.melted /
+   allData.mean
 
-write.table
+   write.table
 
-Identifiers 
+
+"Identifiers"
 
  1. subject - Test Subject ID           
  2. activity - Measured Activity Type
